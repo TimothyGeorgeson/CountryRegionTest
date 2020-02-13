@@ -1,0 +1,19 @@
+{
+    "countries": [
+        {
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "region": "Americas"
+        },
+        {
+        "name": "Peru",
+        "capital": "Lima",
+        "region": "Americas"
+        },
+        {
+        "name": "France",
+        "capital": "Paris",
+        "region": "Europe"
+        }
+    ]
+}
